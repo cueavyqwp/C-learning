@@ -1,6 +1,8 @@
 {
     "files.associations": {
         "tidl_alg_int.h": "c",
-        "limits": "c"
-    }
+        "limits": "c",
+        "string.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
